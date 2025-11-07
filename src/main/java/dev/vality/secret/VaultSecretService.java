@@ -1,6 +1,7 @@
-package dev.vality.adapter.common.v2.secret;
+package dev.vality.secret;
 
 import dev.vality.adapter.common.v2.exception.*;
+import dev.vality.secret.exception.*;
 import lombok.RequiredArgsConstructor;
 import org.springframework.util.CollectionUtils;
 import org.springframework.util.StringUtils;
@@ -12,7 +13,7 @@ import java.util.Map;
 import java.util.Objects;
 import java.util.stream.Collectors;
 
-import static dev.vality.adapter.common.v2.exception.SecretAlreadyModifyException.CAS_ERROR_MESSAGE;
+import static dev.vality.secret.exception.SecretAlreadyModifyException.CAS_ERROR_MESSAGE;
 
 @RequiredArgsConstructor
 public class VaultSecretService implements SecretService {

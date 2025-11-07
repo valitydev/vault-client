@@ -1,4 +1,4 @@
-package dev.vality.adapter.common.v2.secret;
+package dev.vality.secret;
 
 import org.apache.commons.codec.digest.DigestUtils;
 

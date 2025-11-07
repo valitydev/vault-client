@@ -1,6 +1,6 @@
-package dev.vality.adapter.common.v2.secret;
+package dev.vality.secret;
 
-import dev.vality.adapter.common.v2.exception.HexDecodeException;
+import dev.vality.secret.exception.HexDecodeException;
 import org.apache.commons.codec.DecoderException;
 import org.apache.commons.codec.binary.Hex;
 import org.apache.commons.codec.digest.HmacUtils;

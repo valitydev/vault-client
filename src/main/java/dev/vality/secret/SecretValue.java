@@ -1,4 +1,4 @@
-package dev.vality.adapter.common.v2.secret;
+package dev.vality.secret;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

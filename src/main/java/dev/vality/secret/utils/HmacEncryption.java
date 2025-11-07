@@ -1,4 +1,4 @@
-package dev.vality.adapter.common.v2.utils;
+package dev.vality.secret.utils;
 
 import lombok.AccessLevel;
 import lombok.NoArgsConstructor;

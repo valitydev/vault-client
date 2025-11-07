@@ -1,4 +1,4 @@
-package dev.vality.adapter.common.v2.exception;
+package dev.vality.secret.exception;
 
 public class SecretAlreadyModifyException extends RuntimeException {
 
