@@ -1,6 +1,5 @@
 package dev.vality.secret;
 
-import dev.vality.adapter.common.v2.exception.*;
 import dev.vality.secret.exception.*;
 import lombok.RequiredArgsConstructor;
 import org.springframework.util.CollectionUtils;

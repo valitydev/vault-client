@@ -1,6 +1,5 @@
 package dev.vality.secret;
 
-import dev.vality.adapter.common.v2.exception.*;
 import dev.vality.secret.exception.*;
 import dev.vality.secret.utils.HmacEncryption;
 import org.apache.commons.codec.digest.DigestUtils;
